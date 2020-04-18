@@ -1,31 +1,6 @@
 # trello-app
 
-![alt text](https://drive.google.com/file/d/1ezDvLtlnxM07YqFfLUfwqzEre7TwwQAN/view?usp=sharing)
+A clone of a trello board made with vue js.
+feel free to check it out:
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://5e9b845e6446edea0c9889ab--focused-noether-b70a3a.netlify.app/
