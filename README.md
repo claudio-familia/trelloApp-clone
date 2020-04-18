@@ -1,5 +1,7 @@
 # trello-app
 
+![alt text](https://drive.google.com/file/d/1ezDvLtlnxM07YqFfLUfwqzEre7TwwQAN/view?usp=sharing)
+
 ## Project setup
 ```
 yarn install
