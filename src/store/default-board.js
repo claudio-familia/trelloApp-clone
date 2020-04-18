@@ -1,48 +1,48 @@
 import { uuid } from '../utils'
 
 export default {
-  name: 'workshop',
+  name: 'agileBoard',
   columns: [
     {
-      name: 'todo',
+      name: 'To-do',
       tasks: [
         {
           description: '',
-          name: 'first task',
+          name: 'First task',
           id: uuid(),
           userAssigned: null
         },
         {
           description: '',
-          name: 'second task',
+          name: 'Second task',
           id: uuid(),
           userAssigned: null
         },
         {
           description: '',
-          name: 'and thrid',
+          name: 'And third task',
           id: uuid(),
           userAssigned: null
         }
       ]
     },
     {
-      name: 'in-progress',
+      name: 'In-progress',
       tasks: [
         {
           description: '',
-          name: 'first task',
+          name: 'First task',
           id: uuid(),
           userAssigned: null
         }
       ]
     },
     {
-      name: 'done',
+      name: 'Done',
       tasks: [
         {
           description: '',
-          name: 'first task',
+          name: 'First task',
           id: uuid(),
           userAssigned: null
         }
